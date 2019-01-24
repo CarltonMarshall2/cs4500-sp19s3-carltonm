@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Mon Jan 14 01:39:21 EST 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-4b16-0572-000002df6ba8 
-on database directory memory:C:\Users\Carlton\IdeaProjects\cs4500-sp19s3-carltonm\testdb with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Thu Jan 24 00:16:52 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-7e4a-1ad9-000006c82740 
+on database directory memory:C:\Users\Carlton\IdeaProjects\cs4500-sp19s3-carltonm-A2\testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
 Loaded from file:/C:/Users/Carlton/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_191-b12
-user.dir=C:\Users\Carlton\IdeaProjects\cs4500-sp19s3-carltonm
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\Carlton\IdeaProjects\cs4500-sp19s3-carltonm-A2
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0

@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 @RestController
 public class UserService {
@@ -25,7 +26,7 @@ public class UserService {
     @GetMapping("/api/user/{userId}")
     public User findUserById(@PathVariable("userId") Integer id) {
         for (User user : users) {
-            if (user.getId() == id) {
+            if (Objects.equals(user.getId(), id)) {
                 return user;
             }
         }
